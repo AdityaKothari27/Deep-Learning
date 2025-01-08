@@ -1457,7 +1457,7 @@
       "source": [
         "Z2_11 = np.dot(h22,w_h_o11.T)\n",
         "Z2_22 = np.dot(h22,w_h_o22.T)\n",
-        "Z2_33 = np.dot(h22,w_h_o33.T)"
+        "Z2_33 = np.dot(h22,w_h_o33.T)" 
       ],
       "metadata": {
         "id": "14rFtZsIbdCS"
